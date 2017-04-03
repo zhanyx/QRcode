@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="QRcode:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="QRcode.war">
+      <element id="artifact" artifact-name="QRcode:war exploded" />
+    </root>
+  </artifact>
+</component>
